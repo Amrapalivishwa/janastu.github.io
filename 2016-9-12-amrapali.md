@@ -46,11 +46,11 @@ I also presented Mysore and village dasara data in Omeka to work around Omeka fo
 
 I gave SWTR and Alipi demo to interns.
 
-Then i worked on testing of pondymap where found some bugs like loging in and registering the user name were problems if someone presses 'enter' key, and also shared in writing in FaQ for the Pondymap. I took 200 images of different subject and uploaded to the server which helped to find out the bug regarding location. Longitude and lattitude are not showing properly. I also wrote about Pondycherry History. I googled images for the same. How Pondtcherry had gone through different phases and how it was urbanised.  
+Then i worked on testing of pondymap where found some bugs like loging in and registering the user name were problems if someone presses 'enter' key, and also shared in writing in FaQ file shared by Nikita, for the Pondymap. I took 200 images of different subject in android phone and uploaded to the server which helped to find out the bug regarding location. Longitude and lattitude are not showing properly. I also wrote about Pondycherry History from the pdf shared by Murali. I googled images for the same. How Pondtcherry had gone through different phases and how it was urbanised.  
 
-I also prepared Janastu blog report, Who is working on which project on which day, which lead to develop form where everyone reports everyday and the same information can be pulled without rewriting everyones work.
+I also prepared Janastu blog reports for May, Jun, July and August. Who is working on which project on which day and what is the work done on that day.  which lead to develop a google form where everyone reports everyday and the same information can be pulled without rewriting everyones work.
 
-In August we visited Devraya durga for the Anthill meet up where diffrent people belonging to diffent work area and intrest meet up and share there work experience and future projects, so i wrote a google doc for my experience and shared it to others to give their feedback on the event.
+In August we visited Devraya durga for the 2nd Anthill 3 days meet up where diffrent people belonging to diffent work area and intrest meet up and share there work experience and future projects, so i wrote a google doc for my experience and shared it to others to give their feedback on the event. In which pradumna wrote. and others are still to write. 
 https://docs.google.com/document/d/1NDGaSInZZXTP3xFH2TSIMPYZWmmgklADJTXVDHT9-aI/edit?usp=sharing
 
  
