@@ -13,7 +13,8 @@ I personally have visited Humpi in 2012, so when i was narrating pages from this
 
 Hampi website is about How to Reach Hampi? :  Hampi Maps that you can print and carry while exploring Hampi's attractions; Hampi's Mythology & History ; Hampi hotel locations, itinerary plan and much more on Hampi.
 
-When i was renarrating alipi pages, minor problem like edtor position or toolbar position or sometime after posting the content tool window will still displaying massage and not leading to the page where we could select the renarration to see etc came across.
+When i was renarrating alipi pages, problems faced are in the following link https://docs.google.com/a/servelots.com/document/d/1Gmr2SsuKMHzaL0sIfiFD8TNAsiegeXr5FoGjyz78jm4/edit?usp=sharing
+ problem like edtor position or toolbar position or sometime after posting the content tool window will still displaying massage and not leading to the page where we could select the renarration to see etc came across.
 
 I also renarrated many social websites regarding social problems like child marriage, dowry, Human trafficing, violence on women, social discremination according to caste - gender - status, girl education, child labour, child abuse, devdasi tradition. oppression, Minimum wages,  government's facilities or plans for the development of wemen or under previllaged, Water purification, Water born deseases to spred the awareness. Many times people are not aware of schemes which government provides or laws regarding social issues. Such available alternative renarratives which is comfortable to the community or an individual would provide knowledge, guidence and help in the similar situation. I also attemptted to narrate learn to talk English.
 
@@ -38,10 +39,10 @@ After that i made page on yoga, to help others to express the importance of yoga
 In february 2016, I started working on chaha.in project which is about representing intangible Hampi.
 How the Girija kalyanotsava, Dasara and other festivals are celebrated now and earlier in seventeenth century at Hampi and Mysore, Hampi rathotsava, Hampi festival, Hampi jatre, River rituals, Community rituals, Tribles, Art and Craft, Village dasara,Mahanavmi puja, Mysore dasara, folk songs, oral narratives, harritage villages and deitys are being presented to preserve our traditional way of leaving and make it to reach all.  
 
-Again thanks to bhanu who helped me to learn wordpress to present this work. He enabled me to use gimp editor to resize images, how to write an article, how the content should flow, where to keep which images, how to upload images and how image slider works. I choose many images from pantoto server related to Girija kalyana, dasara and river rituals, phal puja, community rituals, brahmbh rathotsava, village dasara, Mysore dasara, Harritage village and deities and prepared post for the same using wordpress. I saw all the images and selected and downloaded many images from that almost resized 500 images to 350 kb, below 1000 px and uploaded to the server which were related. One day Image slider stopped working so i again choose images from the server and redid all the posts. I also did some documantation for the hampi data. I learnt many things. I also interacted with caluvraju regarding data and followed for te same. 
+Again thanks to bhanu who helped me to learn wordpress to present this work. He enabled me to use gimp editor to resize images, how to write an article, how the content should flow, where to keep which images, how to upload images and how image slider works. I choose many images from pantoto server related to Girija kalyana, dasara and river rituals, phal puja, community rituals, brahmbh rathotsava, village dasara, Mysore dasara, Harritage village and deities and prepared post for the same using wordpress. I prepared content from the pdf for all the posts. I saw all the images and selected and downloaded many images from that almost resized 500 images to 350 kb, below 1000 px and uploaded to the server which were related. One day Image slider stopped working so i again choose images from the server and reformatted content and images to redid all the posts. sometimes some images would become very dim or get cut from top important part. I also did some documantation for the hampi data like videos and images who is speaking at that time and about what and put some tags. In Images i put tags and subjects. I learnt many things. I also interacted with caluvraju regarding data and followed him for the same. 
 
-I googled and I prepared a google doc regarding old dasara in villages and mtsore and present days dasara in villages and mysore content and images. 
-I also presented dasara data in Omeka to work around Omeka for future NCBS work. again thanks to bhanu who taught me hoe to feed data in omeka. i downloaded and uploded images and gave description, time, publisher's name. 
+I googled and also read from the book shared by Bhanu, and I prepared a google doc regarding old dasara in villages and Mtsore and present days dasara in villages and mysore content and images. 
+I also presented Mysore and village dasara data in Omeka to work around Omeka for future NCBS work. again thanks to bhanu who taught me hoe to feed data in omeka. i downloaded and uploded images and gave description, time, publisher's name. grouped related images. 
 
 I gave SWTR and Alipi demo to interns.
 
@@ -50,6 +51,7 @@ Then i worked on testing of pondymap where found some bugs like loging in and re
 I also prepared Janastu blog report, Who is working on which project on which day, which lead to develop form where everyone reports everyday and the same information can be pulled without rewriting everyones work.
 
 In August we visited Devraya durga for the Anthill meet up where diffrent people belonging to diffent work area and intrest meet up and share there work experience and future projects, so i wrote a google doc for my experience and shared it to others to give their feedback on the event.
+https://docs.google.com/document/d/1NDGaSInZZXTP3xFH2TSIMPYZWmmgklADJTXVDHT9-aI/edit?usp=sharing
 
  
 
